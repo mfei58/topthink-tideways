@@ -1,0 +1,35 @@
+{
+  "name": "mfei58/topthink-tideways",
+  "description": "thinkphp6 tideways support",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "mfei58",
+      "email": "mfei58@qq.com"
+    }
+  ],
+  "require": {
+    "php": "7.2.*|7.3.*",
+    "ext-xhprof": "^2.2.0",
+    "ext-mongodb": "^1.7.4",
+    "ext-tideways": "^4.1.7",
+    "topthink/framework": "^6.0.0",
+    "alcaeus/mongo-php-adapter": "^1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "ThinkTideways\\Tideways\\": "src"
+    }
+  },
+  "extra": {
+    "think":{
+      "services":[
+        "think\\tideways\\service\\Tideways"
+      ],
+      "config":{
+        "tideways": "src/config/tideways.php"
+      }
+    }
+  },
+  "minimum-stability": "dev"
+}
