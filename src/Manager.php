@@ -1,7 +1,7 @@
 <?php
-namespace ThinkTideways\tideways;
-use app\tideways\constract\ManagerInterface;
-use app\tideways\exception\ExtensionNotFoundException;
+namespace thinkTideways\tideways;
+use thinkTideways\tideways\constract\ManagerInterface;
+use thinkTideways\tideways\exception\ExtensionNotFoundException;
 use think\App;
 use think\Config;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace ThinkTideways\tideways\constract;
+namespace thinkTideways\tideways\constract;
 
 interface ManagerInterface
 {

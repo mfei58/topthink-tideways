@@ -1,7 +1,7 @@
 <?php
-namespace ThinkTideways\tideways\listener;
+namespace thinkTideways\tideways\listener;
 
-use ThinkTideways\tideways\facade\Tideways;
+use thinkTideways\tideways\facade\Tideways;
 
 class TidewaysEnable
 {

@@ -1,9 +1,9 @@
 <?php
-namespace ThinkTideways\tideways\facade;
+namespace thinkTideways\tideways\facade;
 use think\Facade;
 
 /**
- * @see \app\tideways\Manager
+ * @see \thinkTideways\tideways\Manager
  * @package think\facade
  * @method static string enable() 开启监控
  * @method static string disable() 结束监控

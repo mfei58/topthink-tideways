@@ -1,5 +1,5 @@
 <?php
-namespace ThinkTideways\tideways;
+namespace thinkTideways\tideways;
 
 use think\exception\ErrorException;
 

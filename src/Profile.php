@@ -1,5 +1,5 @@
 <?php
-namespace ThinkTideways\tideways;
+namespace thinkTideways\tideways;
 /**
  * Domain object for handling profile runs.
  *

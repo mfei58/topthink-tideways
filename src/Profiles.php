@@ -1,5 +1,5 @@
 <?php
-namespace ThinkTideways\tideways;
+namespace thinkTideways\tideways;
 /**
  * Contains logic for getting/creating/removing profile records.
  */

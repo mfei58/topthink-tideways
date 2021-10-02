@@ -1,5 +1,5 @@
 <?php
-namespace ThinkTideways\tideways\exception;
+namespace thinkTideways\tideways\exception;
 
 use Psr\Container\NotFoundExceptionInterface;
 use RuntimeException;
