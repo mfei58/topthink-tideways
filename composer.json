@@ -24,7 +24,7 @@
   "extra": {
     "think":{
       "services":[
-        "think\\tideways\\service\\Tideways"
+        "thinkTideways\\tideways\\service\\Tideways"
       ],
       "config":{
         "tideways": "src/config/tideways.php"
